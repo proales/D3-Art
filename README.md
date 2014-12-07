@@ -1,4 +1,4 @@
-D3-Art
+D3 Art
 ======
 
-Some relatively simple D3.js art
+Some relatively simple D3.js art I made.
